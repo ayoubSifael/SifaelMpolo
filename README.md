@@ -180,6 +180,13 @@
             <li>Eat a balanced diet rich in fruits, vegetables, whole grains, and lean proteins.</li>
             <li>Stay hydrated by drinking at least 8 glasses of water daily.</li>
             <li>Engage in regular physical activity, such as walking, jogging, or yoga, for at least 30 minutes a day.</li>
+            <li>Get quality sleep by maintaining a consistent sleep schedule and ensuring 7-9 hours of rest each night.</li>
+            <li>Practice good hygiene, including regular handwashing and oral care.</li>
+            <li>Manage stress through relaxation techniques like meditation or deep breathing exercises.</li>
+            <li>Avoid harmful habits such as smoking and excessive alcohol consumption.</li>
+            <li>Schedule regular medical check-ups to monitor your health and detect any issues early.</li>
+            <li>Maintain a healthy weight by balancing calorie intake with physical activity.</li>
+            <li>Stay socially connected to promote mental and emotional well-being.</li>
         </ul>
     </section>
 
