@@ -69,9 +69,24 @@
 
         section h2 {
             color: #FF5733;
-            font-size: 2rem;
+            font-size: 2.5rem;
             margin-bottom: 1rem;
             text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        section h3 {
+            color: #007BFF;
+            font-size: 1.8rem;
+            margin-bottom: 0.8rem;
+            font-weight: bold;
+        }
+
+        section h4 {
+            color: #28A745;
+            font-size: 1.5rem;
+            margin-bottom: 0.6rem;
+            font-weight: bold;
         }
 
         section p,
@@ -112,7 +127,15 @@
             }
 
             section h2 {
-                font-size: 1.8rem;
+                font-size: 2rem;
+            }
+
+            section h3 {
+                font-size: 1.6rem;
+            }
+
+            section h4 {
+                font-size: 1.4rem;
             }
         }
     </style>
@@ -125,7 +148,7 @@
             <a href="#introduction">Introduction</a>
             <a href="#about">About</a>
             <a href="#services">Services</a>
-            <a href="#diseases">Diseases</a>
+            <a href="#types-of-diseases">Types of Diseases</a>
             <a href="#contact">Contact</a>
             <a href="#faq">FAQ</a>
         </nav>
@@ -157,37 +180,162 @@
         <p>At Dr. Sifael Mpolo's clinic, we are committed to providing comprehensive healthcare services tailored to meet the needs of our patients. Our health sector focuses on preventive care, early diagnosis, and effective treatment plans to ensure optimal health outcomes.</p>
     </section>
 
-    <section id="diseases">
-        <h2>How to Avoid Common Diseases</h2>
-        <h3>Typhoid</h3>
-        <p><strong>Explanation:</strong> Typhoid is a bacterial infection caused by *Salmonella typhi*. It spreads through contaminated food and water and is common in areas with poor sanitation.</p>
-        <h4>How to Avoid:</h4>
-        <ul>
-            <li>Drink clean and safe water. Use boiled or filtered water if necessary.</li>
-            <li>Wash your hands thoroughly with soap and water before eating or preparing food.</li>
-        </ul>
+    <section id="types-of-diseases">
+        <h2>Types of Diseases</h2>
 
-        <h3>Malaria</h3>
-        <p><strong>Explanation:</strong> Malaria is a life-threatening disease caused by *Plasmodium* parasites, transmitted through the bites of infected female Anopheles mosquitoes.</p>
-        <h4>How to Avoid:</h4>
-        <ul>
-            <li>Use insecticide-treated mosquito nets while sleeping.</li>
-            <li>Eliminate stagnant water around your home to prevent mosquito breeding.</li>
-        </ul>
+        <h3>1. Infectious Diseases</h3>
+        <p>Infectious diseases are caused by pathogens such as viruses, bacteria, fungi, or parasites. They can spread from person to person, through contaminated food or water, or via insect bites.</p>
+        <div style="border: 1px solid #007BFF; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #007BFF;">COVID-19</h4>
+            <p><strong>Symptoms:</strong> Fever, cough, shortness of breath, fatigue, and loss of taste or smell.</p>
+            <p><strong>How it Spreads:</strong> Through respiratory droplets when an infected person coughs, sneezes, or talks.</p>
+            <p><strong>Prevention:</strong> Wear masks, maintain social distancing, wash hands frequently, and get vaccinated.</p>
+        </div>
+        <div style="border: 1px solid #007BFF; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #007BFF;">Tuberculosis (TB)</h4>
+            <p><strong>Symptoms:</strong> Persistent cough, chest pain, fever, and weight loss.</p>
+            <p><strong>How it Spreads:</strong> Through airborne droplets when an infected person coughs or sneezes.</p>
+            <p><strong>Prevention:</strong> Avoid close contact with infected individuals and ensure proper ventilation in living spaces.</p>
+        </div>
+        <div style="border: 1px solid #007BFF; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #007BFF;">Malaria</h4>
+            <p><strong>Symptoms:</strong> Fever, chills, headache, nausea, and muscle pain.</p>
+            <p><strong>How it Spreads:</strong> Through the bites of infected female Anopheles mosquitoes.</p>
+            <p><strong>Prevention:</strong> Use mosquito nets, eliminate stagnant water, and take antimalarial medications when traveling to endemic areas.</p>
+        </div>
+        <div style="border: 1px solid #007BFF; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #007BFF;">HIV/AIDS</h4>
+            <p><strong>Symptoms:</strong> Fatigue, weight loss, recurrent infections, and night sweats.</p>
+            <p><strong>How it Spreads:</strong> Through unprotected sexual contact, sharing needles, or from mother to child during childbirth or breastfeeding.</p>
+            <p><strong>Prevention:</strong> Practice safe sex, avoid sharing needles, and get tested regularly.</p>
+        </div>
+        <div style="border: 1px solid #007BFF; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #007BFF;">Influenza (Flu)</h4>
+            <p><strong>Symptoms:</strong> Fever, cough, sore throat, body aches, and fatigue.</p>
+            <p><strong>How it Spreads:</strong> Through respiratory droplets when an infected person coughs, sneezes, or talks.</p>
+            <p><strong>Prevention:</strong> Get annual flu vaccinations, wash hands frequently, and avoid close contact with sick individuals.</p>
+        </div>
 
-        <h4>Ways to Keep Your Body Healthy:</h4>
-        <ul>
-            <li>Eat a balanced diet rich in fruits, vegetables, whole grains, and lean proteins.</li>
-            <li>Stay hydrated by drinking at least 8 glasses of water daily.</li>
-            <li>Engage in regular physical activity, such as walking, jogging, or yoga, for at least 30 minutes a day.</li>
-            <li>Get quality sleep by maintaining a consistent sleep schedule and ensuring 7-9 hours of rest each night.</li>
-            <li>Practice good hygiene, including regular handwashing and oral care.</li>
-            <li>Manage stress through relaxation techniques like meditation or deep breathing exercises.</li>
-            <li>Avoid harmful habits such as smoking and excessive alcohol consumption.</li>
-            <li>Schedule regular medical check-ups to monitor your health and detect any issues early.</li>
-            <li>Maintain a healthy weight by balancing calorie intake with physical activity.</li>
-            <li>Stay socially connected to promote mental and emotional well-being.</li>
-        </ul>
+        <h3>2. Chronic Diseases</h3>
+        <p>Chronic diseases are long-term conditions that require ongoing management and can significantly impact quality of life. These diseases are not contagious.</p>
+        <div style="border: 1px solid #28A745; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #28A745;">Diabetes</h4>
+            <p><strong>Symptoms:</strong> Increased thirst, frequent urination, fatigue, and blurred vision.</p>
+            <p><strong>How it Develops:</strong> Caused by genetic factors, lifestyle choices, or autoimmune destruction of insulin-producing cells.</p>
+            <p><strong>Prevention:</strong> Maintain a healthy diet, exercise regularly, and monitor blood sugar levels.</p>
+        </div>
+        <div style="border: 1px solid #28A745; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #28A745;">Hypertension (High Blood Pressure)</h4>
+            <p><strong>Symptoms:</strong> Often asymptomatic but may include headaches, dizziness, and shortness of breath.</p>
+            <p><strong>How it Develops:</strong> Caused by genetic predisposition, poor diet, lack of exercise, or stress.</p>
+            <p><strong>Prevention:</strong> Reduce salt intake, maintain a healthy weight, and manage stress.</p>
+        </div>
+        <div style="border: 1px solid #28A745; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #28A745;">Asthma</h4>
+            <p><strong>Symptoms:</strong> Wheezing, shortness of breath, chest tightness, and coughing.</p>
+            <p><strong>Prevention:</strong> Avoid allergens, use prescribed inhalers, and monitor air quality.</p>
+        </div>
+        <div style="border: 1px solid #28A745; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #28A745;">Arthritis</h4>
+            <p><strong>Symptoms:</strong> Joint pain, swelling, stiffness, and reduced mobility.</p>
+            <p><strong>Prevention:</strong> Maintain a healthy weight, stay active, and avoid joint injuries.</p>
+        </div>
+        <div style="border: 1px solid #28A745; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #28A745;">Cancer</h4>
+            <p><strong>Symptoms:</strong> Vary by type but may include lumps, unexplained weight loss, and fatigue.</p>
+            <p><strong>Prevention:</strong> Avoid smoking, limit alcohol consumption, and undergo regular screenings.</p>
+        </div>
+
+        <h3>3. Genetic & Hereditary Diseases</h3>
+        <p>These diseases are passed down through genes and are not contagious.</p>
+        <div style="border: 1px solid #FFC107; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #FFC107;">Sickle Cell Anemia</h4>
+            <p><strong>Symptoms:</strong> Pain episodes, fatigue, and susceptibility to infections.</p>
+            <p><strong>How it Spreads:</strong> Inherited from both parents carrying the sickle cell gene.</p>
+            <p><strong>Prevention:</strong> Genetic counseling for at-risk couples.</p>
+        </div>
+        <div style="border: 1px solid #FFC107; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #FFC107;">Cystic Fibrosis</h4>
+            <p><strong>Symptoms:</strong> Persistent cough, lung infections, and difficulty gaining weight.</p>
+            <p><strong>Prevention:</strong> Genetic testing and early diagnosis for better management.</p>
+        </div>
+        <div style="border: 1px solid #FFC107; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #FFC107;">Hemophilia</h4>
+            <p><strong>Symptoms:</strong> Excessive bleeding and easy bruising.</p>
+            <p><strong>Prevention:</strong> Genetic counseling and avoiding injury.</p>
+        </div>
+        <div style="border: 1px solid #FFC107; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #FFC107;">Down Syndrome</h4>
+            <p><strong>Symptoms:</strong> Distinct facial features, developmental delays, and intellectual disability.</p>
+            <p><strong>Prevention:</strong> Prenatal screening and genetic counseling.</p>
+        </div>
+
+        <h3>4. Neurological Diseases</h3>
+        <p>Neurological diseases affect the brain, spinal cord, and nervous system. These diseases are not contagious.</p>
+        <div style="border: 1px solid #6C757D; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #6C757D;">Alzheimer’s Disease</h4>
+            <p><strong>Symptoms:</strong> Memory loss, confusion, and difficulty completing familiar tasks.</p>
+            <p><strong>How it Develops:</strong> Caused by genetic factors, age, and lifestyle influences.</p>
+            <p><strong>Prevention:</strong> Engage in mental exercises, maintain a healthy diet, and stay socially active.</p>
+        </div>
+        <div style="border: 1px solid #6C757D; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #6C757D;">Parkinson’s Disease</h4>
+            <p><strong>Symptoms:</strong> Tremors, stiffness, and slow movement.</p>
+            <p><strong>Prevention:</strong> No known prevention, but regular exercise may help manage symptoms.</p>
+        </div>
+        <div style="border: 1px solid #6C757D; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #6C757D;">Epilepsy</h4>
+            <p><strong>Symptoms:</strong> Recurrent seizures, loss of consciousness, and confusion.</p>
+            <p><strong>Prevention:</strong> Avoid head injuries and manage underlying conditions.</p>
+        </div>
+        <div style="border: 1px solid #6C757D; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #6C757D;">Multiple Sclerosis (MS)</h4>
+            <p><strong>Symptoms:</strong> Muscle weakness, vision problems, and difficulty with coordination.</p>
+            <p><strong>Prevention:</strong> No known prevention, but early diagnosis can help manage symptoms.</p>
+        </div>
+
+        <h3>5. Autoimmune Diseases</h3>
+        <p>Autoimmune diseases occur when the immune system mistakenly attacks the body’s own cells and tissues. These diseases are not contagious.</p>
+        <div style="border: 1px solid #DC3545; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #DC3545;">Lupus</h4>
+            <p><strong>Symptoms:</strong> Fatigue, joint pain, and skin rashes.</p>
+            <p><strong>How it Develops:</strong> Caused by genetic predisposition and environmental triggers.</p>
+            <p><strong>Prevention:</strong> Avoid triggers like sunlight and manage stress.</p>
+        </div>
+        <div style="border: 1px solid #DC3545; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #DC3545;">Rheumatoid Arthritis</h4>
+            <p><strong>Symptoms:</strong> Joint pain, swelling, and stiffness.</p>
+            <p><strong>Prevention:</strong> No known prevention, but early treatment can reduce joint damage.</p>
+        </div>
+        <div style="border: 1px solid #DC3545; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #DC3545;">Type 1 Diabetes</h4>
+            <p><strong>Symptoms:</strong> Increased thirst, frequent urination, and weight loss.</p>
+            <p><strong>Prevention:</strong> No known prevention, but early diagnosis can help manage the condition.</p>
+        </div>
+
+        <h3>6. Mental Health Disorders</h3>
+        <p>Mental health disorders affect mood, thinking, and behavior. These disorders are not contagious but may be influenced by genetic and environmental factors.</p>
+        <div style="border: 1px solid #17A2B8; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #17A2B8;">Depression</h4>
+            <p><strong>Symptoms:</strong> Loss of interest, fatigue, and feelings of hopelessness.</p>
+            <p><strong>How it Develops:</strong> Caused by genetic predisposition, life events, or chemical imbalances in the brain.</p>
+            <p><strong>Prevention:</strong> Maintain a support network, exercise regularly, and seek professional help when needed.</p>
+        </div>
+        <div style="border: 1px solid #17A2B8; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #17A2B8;">Anxiety Disorders</h4>
+            <p><strong>Symptoms:</strong> Restlessness, rapid heartbeat, and difficulty concentrating.</p>
+            <p><strong>Prevention:</strong> Practice relaxation techniques and avoid stressful situations.</p>
+        </div>
+        <div style="border: 1px solid #17A2B8; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #17A2B8;">Schizophrenia</h4>
+            <p><strong>Symptoms:</strong> Hallucinations, delusions, and disorganized thinking.</p>
+            <p><strong>Prevention:</strong> No known prevention, but early treatment can improve outcomes.</p>
+        </div>
+        <div style="border: 1px solid #17A2B8; padding: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+            <h4 style="color: #17A2B8;">Bipolar Disorder</h4>
+            <p><strong>Symptoms:</strong> Periods of depression alternating with episodes of mania.</p>
+            <p><strong>Prevention:</strong> No known prevention, but medication and therapy can help manage symptoms.</p>
+        </div>
     </section>
 
     <section id="contact" class="contact">
