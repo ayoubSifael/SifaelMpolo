@@ -193,7 +193,7 @@
     <section id="contact" class="contact">
         <h2>Contact Information</h2>
         <p>Email: sifaelmpolo239@gmail.com</p>
-        <p>Phone: +225 755437163</p>
+        <p>Phone: +225 755 437 163</p>
         <p>Address: Ludewa, Njombe</p>
     </section>
 
